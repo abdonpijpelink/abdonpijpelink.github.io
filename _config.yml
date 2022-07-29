@@ -18,11 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ELK tips and tricks
+title: Abdon's links
 #email: abdon@abdon.nl
 description: >- # this means to ignore newlines until "baseurl:"
-  Tips and trick for working with Elasticsearch, Kibana and the rest of the
-  Elastic Stack.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: abdonpijpelink
