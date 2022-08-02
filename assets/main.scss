@@ -8,3 +8,9 @@
    display: grid;
    grid-template-columns: 1fr 1fr;
 }
+
+.home h1
+{
+   grid-column-start: 1;
+   grid-column-end: 2;
+}
