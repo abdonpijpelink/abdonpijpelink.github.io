@@ -12,7 +12,7 @@ title: Links
 - [cloud](https://github.com/elastic/cloud)
 - [kibana](https://github.com/elastic/kibana)
 
-## Useful information
+## Reference
 
 - [attributes](https://github.com/elastic/docs/blob/master/shared/attributes.asciidoc)
 - [aliases](https://github.com/elastic/docs/blob/master/doc_build_aliases.sh)
