@@ -11,6 +11,5 @@
 
 .home h1
 {
-   grid-column-start: 1;
-   grid-column-end: 2;
+   grid-column-start: span 2;
 }
