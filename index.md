@@ -7,12 +7,12 @@ layout: home
 
 ## Repos
 
-[elasticsearch](https://github.com/elastic/elasticsearch)
-[cloud](https://github.com/elastic/cloud)
-[kibana](https://github.com/elastic/kibana)
+- [elasticsearch](https://github.com/elastic/elasticsearch)
+- [cloud](https://github.com/elastic/cloud)
+- [kibana](https://github.com/elastic/kibana)
 
 ## Useful information
 
-[attributes](https://github.com/elastic/docs/blob/master/shared/attributes.asciidoc)
-[aliases](https://github.com/elastic/docs/blob/master/doc_build_aliases.sh)
-[conf.yaml](https://github.com/elastic/docs/blob/master/conf.yaml)
+- [attributes](https://github.com/elastic/docs/blob/master/shared/attributes.asciidoc)
+- [aliases](https://github.com/elastic/docs/blob/master/doc_build_aliases.sh)
+- [conf.yaml](https://github.com/elastic/docs/blob/master/conf.yaml)
