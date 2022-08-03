@@ -4,7 +4,7 @@
 
 @import "minima";
 
-.page-heading {
+.page-heading h1 {
    font-size: 1.5em;
 }
 
@@ -13,7 +13,7 @@
    grid-template-columns: 1fr 1fr;
 }
 
-.home h1
+.home h2
 {
    font-size: 1em;
    grid-column-start: span 2;
