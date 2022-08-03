@@ -4,6 +4,10 @@
 
 @import "minima";
 
+.page-heading {
+   font-size: 1.5em;
+}
+
 .home {
    display: grid;
    grid-template-columns: 1fr 1fr;
@@ -11,7 +15,12 @@
 
 .home h1
 {
+   font-size: 1em;
    grid-column-start: span 2;
+}
+
+.home ul {
+   margin-left: 0;
 }
 
 .home li {
