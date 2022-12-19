@@ -13,6 +13,7 @@ title: Links
 - [elasticsearch](https://github.com/elastic/elasticsearch)
 - [cloud](https://github.com/elastic/cloud)
 - [kibana](https://github.com/elastic/kibana)
+- [docs](https://github.com/elastic/docs)
 
 </div>
 
